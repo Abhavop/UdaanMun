@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://affectionate-cube-356430.framer.app/sitemap.xml
